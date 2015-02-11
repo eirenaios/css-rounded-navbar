@@ -1,7 +1,4 @@
-# css-rounded-navbar
-
-
-# [Rounded Navigation Bar using Css3]
+# Rounded Navigation Bar using Css3
 
 Css rounded navigation bar using css3 and pseudo elements.
 It is simple, Lightweight and Free!
